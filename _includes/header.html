@@ -1,3 +1,6 @@
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+
 <header class="main-header">
   <div class="wrapper">
     <div class="header-flex">
@@ -7,8 +10,12 @@
       <nav class="main-nav">
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
         <ul>
-          <li><a href="{{site.baseurl}}/">Blog</a></li>
-          <li><a href="{{site.baseurl}}/about">About</a></li>
+          <li><a href="{{site.baseurl}}/">Home</a></li>
+          <li><a href="{{site.baseurl}}/about">Sobre</a></li>
+          {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+          {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+          <li><a href="/tags#{{ this_word | cgi_escape }}" class="tag nav-tag-link">| {{ this_word }}</a></li>
+          {% endunless %}{% endfor %}
         </ul>
       </nav>
       <p class="logo"><a href="{{site.baseurl}}/">{{ site.title }}</a></p>

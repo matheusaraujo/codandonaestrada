@@ -1761,3 +1761,7 @@ pre code {
     margin: 0 0 15px;
   }
 }
+
+.nav-tag-link {
+  font-size: 14px !important;
+}
