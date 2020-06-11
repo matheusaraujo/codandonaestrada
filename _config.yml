@@ -6,6 +6,9 @@ permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.codandonaestrada.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
+site_pic: background.jpg
+about_site: Uma viagem pessoal por estradas, códigos, músicas e filosofias de buteco.
+
 # Author settings
 author: Matheus Araujo # add your name
 author-pic: matheus-face.jpg

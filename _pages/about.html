@@ -1,15 +1,17 @@
 ---
 layout: home-page
-title: About
+title: Sobre
 permalink: /about/
 ---
+
 <div class="small-wrapper">
   <div class="about-container">
     <section class="about-header">
+      O Blog
       <div class="author-image-container">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
+        <img src="{{site.baseurl}}/assets/img/{% if site.site_pic %}{{site.site_pic}}{% endif %}" alt="{{site.title}}">
       </div>
-      <p class="subtitle">{{site.about-author}}</p>
+      <p class="subtitle">{{site.about_site}}</p>
     </section>
     <section class="about-body">
       <ul class="contact-list">
@@ -25,14 +27,6 @@ permalink: /about/
         <li class="website"><a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i></a></li>
       {% endif %}
 
-      {% if site.linkedin %}
-        <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-      {% endif %}
-
-      {% if site.github %}
-        <li class="github"><a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
-      {% endif %}
-
       {% if site.twitter %}
         <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
       {% endif %}
@@ -43,6 +37,57 @@ permalink: /about/
 
       {% if site.instagram %}
         <li class="instagram"><a href="https://instagram.com/{{site.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
+      {% endif %}
+
+      {% if site.pinterest %}
+        <li class="pinterest"><a href="https://pinterest.com/{{site.pinterest}}" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+      {% endif %}
+      </ul>
+    </section> <!-- End About Body-->
+  </div> <!-- End About Container -->
+</div> <!-- End Small Wrapper -->
+
+<div class="small-wrapper">
+  <div class="about-container">
+    <section class="about-header">
+      O Autor
+      <div class="author-image-container">
+        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
+      </div>
+      <p class="subtitle">{{site.about-author}}</p>
+    </section>
+    <section class="about-body">
+      <ul class="contact-list">
+      {% if site.author_email %}
+        <li class="email"><a href="mailto:{{site.author_email}}"><i class="fa fa-envelope-o"></i></a></li>
+      {% endif %}
+
+      {% if site.author_phone %}
+        <li class="phone"><a href="tel:{{site.author_phone}}"><i class="fa fa-phone"></i></a></li>
+      {% endif %}
+
+      {% if site.author_website %}
+        <li class="website"><a href="http://{{site.author_website}}" target="_blank"><i class="fa fa-globe"></i></a></li>
+      {% endif %}
+
+      {% if site.linkedin %}
+        <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+      {% endif %}
+
+      {% if site.github %}
+        <li class="github"><a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
+      {% endif %}
+
+      {% if site.author_twitter %}
+        <li class="twitter"><a href="https://twitter.com/{{site.author_twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+      {% endif %}
+
+      {% if site.facebook %}
+        <li class="facebook"><a href="https://facebook.com/{{site.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a></li>
+      {% endif %}
+
+      {% if site.author_instagram %}
+        <li class="instagram"><a href="https://instagram.com/{{site.author_instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
       {% endif %}
 
       {% if site.pinterest %}

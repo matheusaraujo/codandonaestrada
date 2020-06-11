@@ -42,7 +42,7 @@ Inclusive, olha uma palhinha do tech shot que eu dei na dti sobre WASM.
 <center>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8AvwLY5Q57I
 " target="_blank"><img src="http://img.youtube.com/vi/8AvwLY5Q57I/3.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Vídeo WebAssembly" width="240" height="180" border="10" /></a>
 </center>
 
 Vamos entregar o “Assembly” pra “Web”.
