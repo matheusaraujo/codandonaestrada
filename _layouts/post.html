@@ -19,7 +19,7 @@ layout: default
           <div class="page-tag">
             <span>Tags:</span>
             {% for tag in page.tags %}
-            <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">| {{ tag }}</a>
+            <a href="{{site.baseurl}}/{{ tag | tag_url }}" class="tag">| {{ tag }}</a>
             {% endfor %}
           </div><!-- End Tags -->
         </div>
