@@ -32,8 +32,9 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: # Add your discus identifier
-
+# discus_identifier: codandonaestrada # Add your discus identifier
+discus_identifier:
+  
 # Tracker
 analytics: # Google Analytics
 

@@ -12,7 +12,7 @@ layout: default
         <div class="header-page">
           <h1 class="page-title">{{page.title}}</h1>
           <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>
-          <div class="page-date"><pre>{{page.description}}</pre></div>
+          <div class="page-date"><blockquote>{{page.description}}</blockquote></div>
         </div>
         {{page.content | markdownify}}
         <div class="page-footer">
@@ -25,7 +25,6 @@ layout: default
         </div>
         {% include author-box.html %}
         {% include recent-post.html %}
-        {% include newsletter.html %}
         {% include disqus.html %}
       </div>
     </div> <!-- End Wrapper -->

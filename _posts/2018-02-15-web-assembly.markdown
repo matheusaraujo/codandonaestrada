@@ -2,7 +2,7 @@
 layout: post
 title:  Web Assembly - O que será do futuro da internet
 date:   2018-02-15 00:00:00 +0300
-description: Postado originalmente em dtidigital.com.br/blog/webassembly/
+description: Publicado originalmente em dtidigital.com.br/blog/webassembly/
 img: webassembly/background.jpg # Add image post (optional)
 tags: [Programação]
 ---
@@ -17,12 +17,14 @@ No <a href="http://githut.info/" target="_blank">GitHub</a>, essa é a linguagem
 
 Há mais Frameworks JavaScript do que átomos no universo. Virtualmente toda pessoa desenvolvedora já escreveu um código em JavaScript.
 
-<center>* * *</center>
+<center>&bull; &bull; &bull;</center>
+
 ## E por que isso?
 Bem, basicamente porque não é possível construir uma aplicação Web sem usar JavaScript. Sério isso? Sim, tão sério que até aplicações de celulares tem usado JavaScript, olha o <a href="http://blog.dtidigital.com.br/progressivewebapps/" target="_blank">PWA</a> aí.
 
-<center>* * *</center>
-### E isso é um problema?
+<center>&bull; &bull; &bull;</center>
+
+## E isso é um problema?
 Cara, pra mim não. Eu gosto muito de JavaScript, muito mesmo. JavaScript é a linguagem que te dá liberdade suficiente pra fazer o que quiser da maneira que quiser. Olha o <a href="https://github.com/nodejs/node/wiki" target="_blank">NodeJs</a>, por exemplo. Mas como diria meu pai: com grandes liberdades, vem grandes responsabilidades.
 
 Então se você é livre pra fazer o que quiser como quiser em JavaScript, você tem que saber muito bem o que está fazendo. E aqui começa o problema. Infelizmente nem sempre escrevemos bons códigos em JavaScript, e essa é uma verdade dolorida.
@@ -35,14 +37,14 @@ Ficou cansado? Parece muita coisa? De maneira geral, é assim que uma <a href="h
 
 E aí vem a questão: já que o browser vai sempre fazer a mesma coisa pra transformar código em bytecode, por que eu não entrego bytecode direto pra ele?
 
-<center>* * *</center>
+<center>&bull; &bull; &bull;</center>
 ### O WebAssembly, ou WASM, entra aí.
 Inclusive, olha uma palhinha do tech shot que eu dei na dti sobre WASM.
 
 <center>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8AvwLY5Q57I
-" target="_blank"><img src="http://img.youtube.com/vi/8AvwLY5Q57I/3.jpg" 
-alt="Vídeo WebAssembly" width="240" height="180" border="10" /></a>
+<iframe width="420" height="315"
+    src="https://www.youtube.com/embed/8AvwLY5Q57I">
+</iframe>
 </center>
 
 Vamos entregar o “Assembly” pra “Web”.
@@ -51,8 +53,9 @@ A ideia inicial era compilar o próprio código JavaScript e entregar pro navega
 
 Então, se eu não gosto muito de JavaScript, agora eu posso escrever meu código C# e deixar que o browser rode o bytecode compilado a partir dele.
 
-<center>* * *</center>
-### E isso funciona?
+<center>&bull; &bull; &bull;</center>
+
+## E isso funciona?
 Funciona! <a href="https://github.com/matheusaraujo/Blazor" target="_blank">Olha esse repositório aqui no GitHub</a>. Ele é um fork que eu criei do projeto do Blazor do Steve Sanderson.
 
 Com o Blazor, é possível escrever um código C# que vai rodar direto no browser.
