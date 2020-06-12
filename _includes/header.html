@@ -14,7 +14,7 @@
           <li><a href="{{site.baseurl}}/about">Sobre</a></li>
           {% for item in (0..site.tags.size) %}{% unless forloop.last %}
           {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-          <li><a href="/{{ this_word | slugify: "ascii" }}" class="tag nav-tag-link" style="font-size: 14px !important">
+          <li><a href="/{{ this_word | slugify: "latin" }}" class="tag nav-tag-link" style="font-size: 14px !important">
             | {{ this_word }}
           </a></li>
           {% endunless %}{% endfor %}
