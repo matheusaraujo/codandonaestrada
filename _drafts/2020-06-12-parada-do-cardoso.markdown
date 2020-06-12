@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Café Palhares
+title:  Parada do Cardoso
 date:   2020-06-12 00:00:00 +0300
-description: Café palhares em BH
-img: cafe-palhares/background.jpg # Add image post (optional)
+description: Parada do Cardoso em BH
+img: parada-do-cardoso/background.jpg # Add image post (optional)
 tags: [Belo Horizonte]
 ---
 
@@ -16,3 +16,9 @@ Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Mau
 Manduma pindureta quium dia nois paga. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum. Não sou faixa preta cumpadi, sou preto inteiris, inteiris.
 
 Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Quem manda na minha terra sou euzis! Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Casamentiss faiz malandris se pirulitá.
+
+<center>
+
+<iframe src="https://open.spotify.com/embed/track/6bexGwgw5I4oGGvwIZeKyp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+</center>

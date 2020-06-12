@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Café Palhares
+title:  Baru Cozinha Raiz
 date:   2020-06-12 00:00:00 +0300
-description: Café palhares em BH
-img: cafe-palhares/background.jpg # Add image post (optional)
-tags: [Belo Horizonte]
+description: Baru Cozinha Raiz em Bom Despacho
+img: baru-cozinha-raiz/background.jpg # Add image post (optional)
+tags: [Bom Despacho]
 ---
 
 Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Quem num gosta di mim que vai caçá sua turmis! Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi!
