@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sobre concreto, lâmpadas e softwares
-date:   2018-04-28 00:00:00 +0300
+date:   2017-07-31 00:00:00 +0300
 description: Publicado originalmente em dtidigital.com.br/blog/sobre-concreto-lampadas-e-softwares/
 img: concreto-lampadas-softwares/background.jpeg # Add image post (optional)
 tags: [Programação]
@@ -28,7 +28,7 @@ Bom, explicado o problema do nosso cliente, o problema que nós fomos resolver n
 O problema que ajudamos nosso cliente a resolver foi o da interface com esse software otimizador.
 
 <center>
-<img src="/assets/img/concreto-lampadas-softwares/01.jpeg" alt="Arquitetura convencional" />
+<img src="/assets/img/concreto-lampadas-softwares/01.jpeg" alt="Multitarefas" />
 </center>
 
 ## E aqui fica um aprendizado.
