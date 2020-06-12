@@ -11,9 +11,9 @@
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
         <ul>
           <li><a href="{{site.baseurl}}/">Home</a></li>
-          <li><a href="{{site.baseurl}}/about">Sobre</a></li>
-          {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-          {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+          <li><a href="{{site.baseurl}}/about">Sobre</a></li>          
+          {% for item in (0..site.menu_tags.size) %}{% unless forloop.last %}
+          {% capture this_word %}{{ site.menu_tags[item] | strip_newlines }}{% endcapture %}
           <li><a href="/{{ this_word | slugify: "latin" }}" class="tag nav-tag-link" style="font-size: 14px !important">
             | {{ this_word }}
           </a></li>

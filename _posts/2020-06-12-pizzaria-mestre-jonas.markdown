@@ -4,7 +4,7 @@ title:  Pizzaria Mestre Jonas
 date:   2020-06-12 00:00:00 +0300
 description: Pizzaria Mestre Jonas em Bom Despacho
 img: pizzaria-mestre-jonas/background.jpg # Add image post (optional)
-tags: [Bom Despacho]
+tags: [Bom Despacho, Pizzarias]
 ---
 
 Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Quem num gosta di mim que vai caçá sua turmis! Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi!

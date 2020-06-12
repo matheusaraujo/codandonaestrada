@@ -4,7 +4,7 @@ title:  Bar do Orlando
 date:   2020-06-12 00:00:00 +0300
 description: Bar do Orlando em BH
 img: bar-do-orlando/background.jpg # Add image post (optional)
-tags: [Belo Horizonte]
+tags: [Belo Horizonte, Butecos]
 ---
 
 Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Quem num gosta di mim que vai caçá sua turmis! Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi!
