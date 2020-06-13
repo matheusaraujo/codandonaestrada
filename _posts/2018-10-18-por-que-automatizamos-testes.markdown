@@ -4,7 +4,7 @@ title:  Por que automatizamos testes?
 date:   2018-10-18 00:00:00 +0300
 description: Publicado originalmente em medium.com/@matheus.saraujo/por-que-automatizamos-testes-760c113f3bd0
 img: por-que-automatizamos-testes/background.jpeg # Add image post (optional)
-tags: [Programação, Automação de testes]
+tags: ["Computação"]
 ---
 
 Uma metáfora recorrente (apesar de bélica) para comparar o desenvolvimento de software com outras engenharias é a diferenciação entre uma catapulta e um míssil teleguiado.

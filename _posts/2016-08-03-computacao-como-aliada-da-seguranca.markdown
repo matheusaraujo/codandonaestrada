@@ -4,7 +4,7 @@ title:  Segurança da Informação, o poder da computação
 date:   2016-08-03 00:00:00 +0300
 description: Publicado originalmente em dtidigital.com.br/blog/a-computacao-como-aliada-da-seguranca/
 img: computacao-como-aliada-da-seguranca/background.jpg # Add image post (optional)
-tags: [Programação]
+tags: ["Computação"]
 ---
 
 Desde que os computadores deixaram de ocupar prédios inteiros e passaram a viver em nossos bolsos, ironicamente, temos dado cada vez mais espaço a essas tecnologias. É difícil pensar em alguma atividade do nosso cotidiano em que eles não estejam presentes. Há quanto tempo você não lê jornal? Aquele de papel que se compra na esquina. Quando foi a última vez que você parou num posto para pedir informação sobre como chegar a determinado lugar? Isso sem falar em cartas ou a angustiante espera pela revelação de fotos.

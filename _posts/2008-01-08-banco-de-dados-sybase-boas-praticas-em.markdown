@@ -4,7 +4,7 @@ title:  Banco de Dados Sybase, 5 Boas Práticas em.
 date:   2018-01-08 00:00:00 +0300
 description: Publicado originalmente em dtidigital.com.br/blog/banco-de-dados-sybase-boas-praticas-em/
 img: banco-de-dados-sybase-boas-praticas-em/background.jpg # Add image post (optional)
-tags: [Programação]
+tags: ["Computação"]
 ---
 
 **_“Um pouco mais de conhecimento ilumina nosso caminho”_ – Mestre Yoda**. No post de hoje, sobre boas práticas para desenvolvimento em banco de dados Sybase ASE, falar iremos. Técnico, o assunto é; porém divertido ele também será, Jovem Padawan.

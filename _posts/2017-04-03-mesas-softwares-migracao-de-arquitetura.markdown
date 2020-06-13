@@ -4,7 +4,7 @@ title:  Sobre mesas, softwares e migração de arquitetura
 date:   2017-04-03 00:00:00 +0300
 description: Publicado originalmente em dtidigital.com.br/blog/sobre-mesas-softwares-e-migracao-de-arquitetura/
 img: mesas-softwares-migracao-de-arquitetura/background.jpg # Add image post (optional)
-tags: [Programação]
+tags: ["Computação"]
 ---
 
 Quando entrei na dti, tive meu primeiro contato com o mundo ágil e um dos primeiros ensinamentos que tive de um de nossos Jedis foi:

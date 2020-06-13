@@ -4,7 +4,7 @@ title:  Sobre concreto, lâmpadas e softwares
 date:   2017-07-31 00:00:00 +0300
 description: Publicado originalmente em dtidigital.com.br/blog/sobre-concreto-lampadas-e-softwares/
 img: concreto-lampadas-softwares/background.jpeg # Add image post (optional)
-tags: [Programação]
+tags: ["Computação"]
 ---
 
 Há um tempo falamos aqui no blog sobre <a href="/mesas-softwares-migracao-de-arquitetura" target="_blank">mesas e softwares</a>. Naquela ocasião dissemos que softwares são como mesas, constroem seu sentido à medida que sua utilidade é definida.

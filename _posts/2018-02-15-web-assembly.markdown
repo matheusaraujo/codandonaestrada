@@ -4,7 +4,7 @@ title:  Web Assembly - O que será do futuro da internet
 date:   2018-02-15 00:00:00 +0300
 description: Publicado originalmente em dtidigital.com.br/blog/webassembly/
 img: webassembly/background.jpg # Add image post (optional)
-tags: [Programação]
+tags: ["Computação"]
 ---
 
 A página que você está lendo nesse momento é um amontoado de HTML, CSS e JavaScript.

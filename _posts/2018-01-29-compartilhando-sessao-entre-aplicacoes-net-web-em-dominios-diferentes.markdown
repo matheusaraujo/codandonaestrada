@@ -4,7 +4,7 @@ title:  Compartilhando sessão entre aplicações NET Web em domínios diferente
 date:   2018-01-29 00:00:00 +0300
 description: Publicado originalmente em dtidigital.com.br/blog/compartilhando-sessao-entre-aplicacoes-net-web-em-dominios-diferentes/
 img: compartilhando-sessao-entre-aplicacoes-net-web-em-dominios-diferentes/background.jpg # Add image post (optional)
-tags: [Programação]
+tags: ["Computação"]
 ---
 
 **ATENÇÃO: O conteúdo apresentado a seguir é estritamente técnico. Não existem estudos sobre os danos que sua leitura pode causar aos não-programadores. No entanto, há fortes indícios para crermos que ela faça muito bem aos entusiastas de aplicações NET Web.**
