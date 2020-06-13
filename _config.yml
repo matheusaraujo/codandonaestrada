@@ -40,7 +40,7 @@ mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
 # discus_identifier: codandonaestrada # Add your discus identifier
-discus_identifier:
+discus_identifier: codandonaestrada
   
 # Tracker
 analytics: UA-169260965-1 # Google Analytics
